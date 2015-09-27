@@ -1,4 +1,4 @@
-tegirmon.github.io
+Projects
 ==================
 
-testing..
+This site will host list of projects that I have worked on. 
